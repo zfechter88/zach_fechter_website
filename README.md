@@ -1,2 +1,0 @@
-# cointossfootball
-Created with CodeSandbox
