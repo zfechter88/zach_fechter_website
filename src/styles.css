@@ -1,0 +1,61 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Title {
+  font-family: sans-serif;
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 830px;
+}
+.SuperBowl {
+  position: absolute;
+  top: 5px;
+  left: 250px;
+  background: rgb(255, 255, 255);
+}
+.RegularSeason {
+  background: green;
+  position: absolute;
+  top: 50px;
+  width: 200px;
+  height: 435px;
+}
+.CareerStatsHead {
+  background: coral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 35px;
+  left: 220px;
+  width: 620px;
+  height: 25px;
+  vertical-align: top;
+}
+.CareerStats {
+  background: blue;
+  position: absolute;
+  width: 200px;
+  height: 400px;
+  top: 85px;
+  left: 220px;
+}
+.AddtlCareerStats {
+  background: red;
+  position: absolute;
+  width: 200px;
+  height: 400px;
+  top: 85px;
+  left: 430px;
+}
+.SuperBowlCityRecord {
+  background: lightgreen;
+  width: 200px;
+  left: 640px;
+  position: absolute;
+  top: 85px;
+  height: 400px;
+}
