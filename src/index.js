@@ -1,5 +1,8 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
+require("@babel/core").transform("code", {
+  presets: ["@babel/preset-env"],
+});
 
 import Doctor from "./App";
 
