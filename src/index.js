@@ -1,12 +1,12 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
-import Doctor from "./App";
+import Game from "./App";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
-    <Doctor />
+    <Game />
   </StrictMode>,
   rootElement
 );
