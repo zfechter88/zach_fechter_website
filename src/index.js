@@ -5,7 +5,7 @@ import Game from "./App";
 
 const rootElement = document.getElementById("root");
 
-<script type="text/babel">
+
 
 ReactDOM.render(
   <StrictMode>
@@ -13,4 +13,4 @@ ReactDOM.render(
   </StrictMode>,
   rootElement
 );
-</script>
+
