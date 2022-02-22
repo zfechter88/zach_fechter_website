@@ -9,8 +9,9 @@ const rootElement = document.getElementById("root");
 
 ReactDOM.render(
   <StrictMode>
-    <Game />,  
+  <p>Hello</p>, 
   </StrictMode>,
   rootElement
 );
 
+ //<Game />,
